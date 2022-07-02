@@ -31,20 +31,24 @@
  
 ## Code examples from other projects (100% code contribution)
 
-## Dice Master
-  
-  <img src="https://user-images.githubusercontent.com/43534535/176995238-5a00c1f0-ebcb-4974-8c08-e975b5e14e98.png" alt="drawing" width="200"/>
-  
-  [APK](https://drive.google.com/file/d/1J0VUWFT-UTnGWxICnKkxOBMnJvLNscP0/view?usp=sharing)
-
 ## Mine Clicker
   
   <img src="https://user-images.githubusercontent.com/43534535/176995619-08eacf7e-2bb9-4cf3-8ae6-ebad475f839a.png" alt="drawing" width="200"/>
   <img src="https://user-images.githubusercontent.com/43534535/176995920-39280dbf-1b9f-4ce1-8a10-53c162c6a93b.png" alt="drawing" width="200"/>
   
+  ### ⌨️[Code example: touch handling](https://gist.github.com/JottoWorol/ec274886f11753e6cafc6cae20dbf374)
+  
   [APK](https://drive.google.com/file/d/1CA8YuRaZRY3yZIC41KecLQRhcqBT0YAv/view?usp=sharing)
   
-  [Gameplay Video](https://drive.google.com/file/d/1EOayi5TaXF_ylN5lIG9P4oqZ5u3r76KP/view?usp=sharing)
+  [Gameplay Video](https://drive.google.com/file/d/1VAVr-vN8Are5hWSuxixreK8C6nWrId1e/view?usp=sharing)
+
+## Dice Master
+  
+  <img src="https://user-images.githubusercontent.com/43534535/176995238-5a00c1f0-ebcb-4974-8c08-e975b5e14e98.png" alt="drawing" width="200"/>
+  
+  ### ⌨️[Code example: level stages in turn-based game loop](https://gist.github.com/JottoWorol/75905e26b3f840539c0500b37d2cc949)
+  
+  [APK](https://drive.google.com/file/d/1wPc1C_4FxnKV943WEYZZuNvyRdj7k0nH/view?usp=sharing)
   
 ## Catch The Balls
   
@@ -52,7 +56,7 @@
   
   [APK](https://drive.google.com/file/d/1tz8JsKAqP8Mq9AHGJmzbVNVcAblePWqi/view?usp=sharing)
  
-  [Gameplay video](https://drive.google.com/file/d/1HwDYn7ZQsh51xJYlTTl-cfNpCJDBqgv6/view)
+  [Gameplay video](https://drive.google.com/file/d/12tJbUQ6bZuK29kvr3ByLSQGt5Wq5X0Zk/view?usp=sharing)
   
 ## Lover Lab
 
@@ -60,7 +64,7 @@
 
   [APK](https://drive.google.com/file/d/1uCNlfvJO_ldecD1JnwCwvnT3gPcOmSwo/view?usp=sharing)
   
-  [Gameplay Video](https://drive.google.com/file/d/1gXikr-QwafybuE-cA7p-br4B20fQGwRJ/view?usp=sharing)
+  [Gameplay Video](https://drive.google.com/file/d/1JWrYjNjJbXtpbkFcq9xyEN9mN2wYZo6H/view?usp=sharing)
   
 ## Merge fashion
   
