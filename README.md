@@ -39,16 +39,6 @@
   
   [APK](https://drive.google.com/file/d/1wPc1C_4FxnKV943WEYZZuNvyRdj7k0nH/view?usp=sharing)
   
-## Lover Lab
-
-  <img src="https://user-images.githubusercontent.com/43534535/176997637-b9b8a404-7dd8-475f-bbb3-e482af376c40.jpg" alt="drawing" width="200"/>
-
-  ### ⌨️[Code example: Dynamic content creation (once per level, driven by config)](https://gist.github.com/JottoWorol/92986268268abc1348c9ca811304c666)
-
-  [APK](https://drive.google.com/file/d/1uCNlfvJO_ldecD1JnwCwvnT3gPcOmSwo/view?usp=sharing)
-  
-  [Gameplay Video](https://drive.google.com/file/d/1JWrYjNjJbXtpbkFcq9xyEN9mN2wYZo6H/view?usp=sharing)
-  
 ## Merge fashion
   
   <img src="https://user-images.githubusercontent.com/43534535/176997009-75afdf45-655e-4e77-b82e-5b145b3c889c.png" alt="drawing" width="200"/>
