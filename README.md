@@ -30,14 +30,6 @@
 <hr>   
  
 ## Code examples from other projects (100% code contribution)
-
-## Dice Master
-  
-  <img src="https://user-images.githubusercontent.com/43534535/176995238-5a00c1f0-ebcb-4974-8c08-e975b5e14e98.png" alt="drawing" width="200"/>
-  
-  ### ⌨️[Code example: level stages in turn-based game loop](https://gist.github.com/JottoWorol/75905e26b3f840539c0500b37d2cc949)
-  
-  [APK](https://drive.google.com/file/d/1wPc1C_4FxnKV943WEYZZuNvyRdj7k0nH/view?usp=sharing)
   
 ## Merge fashion
   
@@ -59,6 +51,14 @@
   [APK](https://drive.google.com/file/d/1CA8YuRaZRY3yZIC41KecLQRhcqBT0YAv/view?usp=sharing)
   
   [Gameplay Video](https://drive.google.com/file/d/1VAVr-vN8Are5hWSuxixreK8C6nWrId1e/view?usp=sharing)
+  
+## Dice Master
+  
+  <img src="https://user-images.githubusercontent.com/43534535/176995238-5a00c1f0-ebcb-4974-8c08-e975b5e14e98.png" alt="drawing" width="200"/>
+  
+  ### ⌨️[Code example: level stages in turn-based game loop](https://gist.github.com/JottoWorol/75905e26b3f840539c0500b37d2cc949)
+  
+  [APK](https://drive.google.com/file/d/1wPc1C_4FxnKV943WEYZZuNvyRdj7k0nH/view?usp=sharing)
   
 ## Cruise Path
   
