@@ -1,6 +1,6 @@
 
 # Matvey Poltarykhin
-<samp> I'm a Unity Developer, available for work
+<samp> I'm a Unity Developer
 
 ## Stack
   
