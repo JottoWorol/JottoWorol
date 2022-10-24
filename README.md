@@ -1,6 +1,6 @@
 
 # Matvey Poltarykhin
-<samp> I'm a Unity Developer
+<samp> I'm a Unity Developer. Looking for a job
 
 ## Stack
   
@@ -26,6 +26,9 @@
   - [Gang Thugs Anarchy](https://play.google.com/store/apps/details?id=com.big8labs.gang.thugs.anarchy&hl=en&gl=US) (Contribution - mission system and sound design)
   - [Folding Car](https://play.google.com/store/apps/details?id=com.igdclub.foldingcar) (Contribution - sound design)
   - [Mow It](https://play.google.com/store/apps/details?id=com.igdclub.mowit) (Contribution - sound design)
+  - [Overcrowded: Tycoon](https://play.google.com/store/apps/details?id=com.zeptolab.overcrowded) (Contribution - GPlay-Amazon migration)
+  - [Om Nom: Run](https://play.google.com/store/apps/details?id=com.zeptolab.omnomrun.google) (Contribution - GPlay-Amazon migration)
+  - [Battle Simulator: Warfare](https://play.google.com/store/apps/details?id=com.playsidestudios.ageofwarfare) (Contribution - new minor features)
   
 <hr>   
  
