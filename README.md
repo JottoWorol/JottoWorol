@@ -24,9 +24,7 @@
 
   - [Merge Inn](https://play.google.com/store/apps/details?id=com.mergegame.merge) (Tons of gameplay features, LiveOps systems, 3rd party payment integration)
   - [Mergedom](https://play.google.com/store/apps/details?id=com.mergedomhomedesign.game) (3rd party infrastructure migration from previous project owner)
-  - [Mow It ALL](https://play.google.com/store/apps/details?id=com.igdclub.mowitall) (Contribution - boosters and rewarded ads)
   - [Gang Thugs Anarchy](https://play.google.com/store/apps/details?id=com.big8labs.gang.thugs.anarchy&hl=en&gl=US) (Contribution - mission system and sound design)
-  - [Folding Car](https://play.google.com/store/apps/details?id=com.igdclub.foldingcar) (Contribution - sound design)
   - [Mow It](https://play.google.com/store/apps/details?id=com.igdclub.mowit) (Contribution - sound design)
   - [Overcrowded: Tycoon](https://play.google.com/store/apps/details?id=com.zeptolab.overcrowded) (Contribution - GPlay-To-Amazon migration)
   - [Om Nom: Run](https://play.google.com/store/apps/details?id=com.zeptolab.omnomrun.google) (Contribution - GPlay-To-Amazon migration)
