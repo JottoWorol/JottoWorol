@@ -23,6 +23,7 @@
 ## Released projects
 
   - [Merge Inn](https://play.google.com/store/apps/details?id=com.mergegame.merge) (Tons of gameplay features, LiveOps systems, 3rd party payment integration)
+  - [Corner Cafe](https://play.google.com/store/apps/details?id=com.grilltown.grill) (3rd party payment systems, release supervision)
   - [Mergedom](https://play.google.com/store/apps/details?id=com.mergedomhomedesign.game) (3rd party infrastructure migration from previous project owner)
   - [Gang Thugs Anarchy](https://play.google.com/store/apps/details?id=com.big8labs.gang.thugs.anarchy&hl=en&gl=US) (Contribution - mission system and sound design)
   - [Mow It](https://play.google.com/store/apps/details?id=com.igdclub.mowit) (Contribution - sound design)
